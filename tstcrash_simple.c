@@ -1,9 +1,12 @@
+#define _GNU_SOURCE
+#include <sys/types.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <signal.h>
 #include <string.h>
 #include "tst.h"
 #include <unistd.h>
+
 
 char *progname;
 

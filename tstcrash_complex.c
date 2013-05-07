@@ -1,7 +1,5 @@
 /* THIS PROGRAM WILL NOT AND CANNOT BE MADE TO COMPILE WITH AN ANSI-STANDARD C-compiler */
-
-
-
+#include <sys/types.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
