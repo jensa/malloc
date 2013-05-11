@@ -1,0 +1,220 @@
+Running custom tests
+---------------------------------
+Compiling FIRST-FIT strategy
+Running test...
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12516480
+./test: Memory consumed 15130624
+
+real	0m1.466s
+user	0m1.444s
+sys	0m0.016s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12581376
+./test: Memory consumed 15015936
+
+real	0m1.477s
+user	0m1.456s
+sys	0m0.016s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12434960
+./test: Memory consumed 15044608
+
+real	0m1.476s
+user	0m1.456s
+sys	0m0.016s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12446648
+./test: Memory consumed 15003648
+
+real	0m1.467s
+user	0m1.436s
+sys	0m0.024s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12493864
+./test: Memory consumed 15089664
+
+real	0m1.466s
+user	0m1.448s
+sys	0m0.012s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12546128
+./test: Memory consumed 15060992
+
+real	0m1.507s
+user	0m1.496s
+sys	0m0.004s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12569976
+./test: Memory consumed 15003648
+
+real	0m1.461s
+user	0m1.460s
+sys	0m0.000s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12570744
+./test: Memory consumed 15081472
+
+real	0m1.474s
+user	0m1.448s
+sys	0m0.020s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12598816
+./test: Memory consumed 15020032
+
+real	0m1.474s
+user	0m1.452s
+sys	0m0.016s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12503480
+./test: Memory consumed 14995456
+
+real	0m1.466s
+user	0m1.432s
+sys	0m0.028s
+----------------------------
+Compiling BEST-FIT strategy
+Running test...
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12689784
+./test: Memory consumed 13324288
+
+real	0m2.562s
+user	0m2.540s
+sys	0m0.016s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12445944
+./test: Memory consumed 13139968
+
+real	0m2.574s
+user	0m2.548s
+sys	0m0.020s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12391264
+./test: Memory consumed 13090816
+
+real	0m2.538s
+user	0m2.512s
+sys	0m0.016s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12475424
+./test: Memory consumed 13111296
+
+real	0m2.519s
+user	0m2.500s
+sys	0m0.012s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12528096
+./test: Memory consumed 13242368
+
+real	0m2.518s
+user	0m2.496s
+sys	0m0.016s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12476640
+./test: Memory consumed 13123584
+
+real	0m2.599s
+user	0m2.580s
+sys	0m0.012s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12601128
+./test: Memory consumed 13377536
+
+real	0m2.522s
+user	0m2.504s
+sys	0m0.012s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12379704
+./test: Memory consumed 13131776
+
+real	0m2.503s
+user	0m2.488s
+sys	0m0.008s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12473424
+./test: Memory consumed 13123584
+
+real	0m2.532s
+user	0m2.508s
+sys	0m0.016s
+./test, line 69: -- This test checks malloc(), free() and realloc()
+./test: Max memory allocated 12514000
+./test: Memory consumed 13176832
+
+real	0m2.508s
+user	0m2.492s
+sys	0m0.008s
+----------------------------
+compiling and running tests of SYSTEM MALLOC
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12489392
+./test_system: Memory consumed 14299136
+
+real	0m0.532s
+user	0m0.524s
+sys	0m0.004s
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12457680
+./test_system: Memory consumed 14422016
+
+real	0m0.528s
+user	0m0.516s
+sys	0m0.008s
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12457680
+./test_system: Memory consumed 14422016
+
+real	0m0.529s
+user	0m0.508s
+sys	0m0.016s
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12469272
+./test_system: Memory consumed 14233600
+
+real	0m0.528s
+user	0m0.508s
+sys	0m0.020s
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12494424
+./test_system: Memory consumed 14286848
+
+real	0m0.527s
+user	0m0.512s
+sys	0m0.012s
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12494424
+./test_system: Memory consumed 14286848
+
+real	0m0.526s
+user	0m0.516s
+sys	0m0.008s
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12469128
+./test_system: Memory consumed 14352384
+
+real	0m0.541s
+user	0m0.524s
+sys	0m0.012s
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12469128
+./test_system: Memory consumed 14352384
+
+real	0m0.530s
+user	0m0.508s
+sys	0m0.016s
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12413864
+./test_system: Memory consumed 14270464
+
+real	0m0.540s
+user	0m0.528s
+sys	0m0.008s
+./test_system, line 68: -- This test checks malloc(), free() and realloc()
+./test_system: Max memory allocated 12413864
+./test_system: Memory consumed 14270464
+
+real	0m0.540s
+user	0m0.520s
+sys	0m0.016s
+----------------------
